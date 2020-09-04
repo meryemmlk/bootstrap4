@@ -21,7 +21,7 @@
   "homepage": "https://github.com/meryemmlk/bootstrap4#readme",
   "devDependencies": {
     "lite-server": "^2.5.3",
-    "node-sass": "^4.7.2"
+    "node-sass": "^4.13.1"
   },
   "dependencies": {
     "bootstrap": "^4.0.0",
